@@ -27,5 +27,6 @@ Protoboard e Fios de Conexão:
 Use a protoboard para montar o circuito e organizar as conexões.
 Utilize fios de conexão (jumpers) para ligar os componentes ao Arduino.
 
-![Mighty Wluff (5)](https://github.com/user-attachments/assets/c05e5ea7-3f6a-45a7-b4b2-4dbe856909c9)
+![Mighty Wluff (7)](https://github.com/user-attachments/assets/370daed9-be2d-485e-8d2c-922e4e20c1ae)
+
 
